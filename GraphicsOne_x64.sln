@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphicsOne_x64", "GraphicsOne\GraphicsOne.vcxproj", "{EBC2957A-E4F1-4293-8F44-8B6DB86A3CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC2957A-E4F1-4293-8F44-8B6DB86A3CBE}.Debug|x64.ActiveCfg = Debug|x64
+		{EBC2957A-E4F1-4293-8F44-8B6DB86A3CBE}.Debug|x64.Build.0 = Debug|x64
+		{EBC2957A-E4F1-4293-8F44-8B6DB86A3CBE}.Debug|x86.ActiveCfg = Debug|Win32
+		{EBC2957A-E4F1-4293-8F44-8B6DB86A3CBE}.Debug|x86.Build.0 = Debug|Win32
+		{EBC2957A-E4F1-4293-8F44-8B6DB86A3CBE}.Release|x64.ActiveCfg = Release|x64
+		{EBC2957A-E4F1-4293-8F44-8B6DB86A3CBE}.Release|x64.Build.0 = Release|x64
+		{EBC2957A-E4F1-4293-8F44-8B6DB86A3CBE}.Release|x86.ActiveCfg = Release|Win32
+		{EBC2957A-E4F1-4293-8F44-8B6DB86A3CBE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {845C1578-CDBC-4FE4-A984-721135CE0FB4}
+	EndGlobalSection
+EndGlobal
